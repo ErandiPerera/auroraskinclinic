@@ -1,0 +1,12 @@
+export const api_url="http://localhost:8080/app/";
+export const clientRoute="clientController";
+export const arAppointmentRoute="arAppoinmentController";
+export const AddKey = "Insert";
+export const UpdateKey = "Update";
+export const insertString = "Add New";
+export const errorMessageRet="Error while retrieving data !!"
+export const errorMessageDelete="Error while deleting data !!"
+export const errorMessageUpdate="Error while updating data !!"
+export const successMessageDelete="Data deleted successfully!!"
+export const successMessageUpdate="Data Updated successfully!!"
+export const successMessageUInsert="Appointment Booked Successfully!!"
